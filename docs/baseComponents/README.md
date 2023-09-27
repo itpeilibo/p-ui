@@ -27,4 +27,4 @@ Vue.use(Pui)
 
 [//]: # (## [Vue3 基础组件GitHub地址]&#40;https://github.com/wocwin/t-ui-plus&#41;)
 
-> 基于 Element-plus 二次封装基础组件地址
+> 基于 Element-ui 二次封装基础组件地址

@@ -19,8 +19,8 @@ module.exports = {
       { text: '主页', link: '/' },
       { text: '实际项目问题', link: '/projectProblem/permission' },
       { text: '基础组件', link: '/baseComponents/' },
+      { text: 'csdn',link: 'https://blog.csdn.net/weixin_46862327' }
       // { text: 'Pui主题', link: '/theme/base' },
-      // { text: "Gitee码云", link: "https://gitee.com/wocwin/t-ui" }
     ],
     sidebar: {
       '/projectProblem/': [
