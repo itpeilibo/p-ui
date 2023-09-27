@@ -12,7 +12,7 @@ module.exports = {
   },
   themeConfig: {
     // 你的GitHub仓库，请正确填写
-    repo: 'https://itpeilibo.github.io/p-ui',
+    repo: 'https://github.com/itpeilibo/p-ui',
     // 自定义仓库链接文字。
     repoLabel: 'GitHub',
     nav: [
