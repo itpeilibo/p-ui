@@ -7,8 +7,8 @@
       <div class="star4"></div>
       <div class="star5"></div>
       <div class="input-format">
-        <img src="@/assets/image/logo.png" alt class="logon" />
-        <h3 class="title">T-ui基础组件运用</h3>
+        <img src="@/assets/image/logo.jpg" alt class="logon" />
+        <h3 class="title">P-ui基础组件运用</h3>
         <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form">
           <el-form-item prop="username">
             <el-input
